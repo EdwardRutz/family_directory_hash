@@ -20,6 +20,7 @@ Create a report from a hash with a nested hash.
 ## Notes
 
 -The most basic way to iterate a hash is:
+
     ```
     hash.each do |key, value|
         puts key
